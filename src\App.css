@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+  margin: 40px;
+}
+
+h1 {
+  color: #032B44;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+p {
+  font-size: 24px;
+  font-weight: bold;
+  color: #032B44;
+}
